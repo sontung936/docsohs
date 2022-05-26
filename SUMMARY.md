@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Osho City](README.md)
-* [Freedom](freedom.md)
 * [NFT Display](nft-display.md)
 * [Original Content NFTs](original-content-nfts.md)
 * [FreeID - MultiChain Identity System](freeid-multichain-identity-system.md)
@@ -17,7 +16,6 @@
 * [FreeID Modules](freeid-modules.md)
 * [DISCLAIMERS](disclaimers.md)
 * [Beta1.0 Testnet](beta1.0-testnet.md)
-* [Email Protection | Cloudflare](email-protection-or-cloudflare.md)
 * [Share NFT](share-nft.md)
 * [Comment NFT](comment-nft.md)
 * [Follow NFT](follow-nft.md)
