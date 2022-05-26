@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Osho City](README.md)
+* [Osho City - decentralized community based on blockchain Internet computer](README.md)
 * [NFT Display](nft-display.md)
 * [Original Content NFTs](original-content-nfts.md)
 * [FreeID - MultiChain Identity System](freeid-multichain-identity-system.md)
